@@ -1,3 +1,7 @@
 video_homepage:
     path:     /Video
     defaults: { _controller: VideoBundle:Default:index }
+
+videoAddition:
+    path:     /VideoAddition
+    defaults: {_controller: VideoBundle:Default:new}
