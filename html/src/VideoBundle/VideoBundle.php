@@ -1,6 +1,6 @@
 <?php
 
-namespace src\VideoBundle;
+namespace VideoBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
